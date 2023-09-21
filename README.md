@@ -16,5 +16,5 @@ Dentro do repositório consta o diagrama do database, arquivo Readme.md e o note
 
  Obs:
  Os métodos "update_table()" e "delete_table()" estão comentados, será necessário executar alguns passos.
- - Definir a regra de atualização, caso seja o método update_table()
- - Definir a regra de deleção, caso seja o método delete_table()
+ - Definir a regra de atualização, caso seja o método update_table().
+ - Definir a regra de deleção, caso seja o método delete_table().
