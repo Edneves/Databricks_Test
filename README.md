@@ -1,4 +1,4 @@
-# Teste-Tecnico
+# Databricks_Test
 
 Projeto idealizado com o intuito de extrair as tabelas do Database Type Ecommerce e carregá-las no Databricks.
 Dentro do repositório consta o diagrama do database, arquivo Readme.md e o notebook em formato IPython.
